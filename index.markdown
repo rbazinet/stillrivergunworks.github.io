@@ -8,6 +8,8 @@ layout: landing
     </header>
 
     <section class="services">
+        <h2 class="services-heading">Professional Gunsmithing Services</h2>
+        <p class="services-intro">Expert craftsmanship and precision work for all your firearm needs</p>
         <ul class="services-list">
             <li>Total Restorations</li>
             <li>Bluing</li>
@@ -20,6 +22,10 @@ layout: landing
 
     <section class="contact-info">
         <div class="contact-details">
+            <p class="address">
+                126 Crooked Trail Ext.<br>
+                Woodstock, CT 06281
+            </p>
             <p class="email">
                 <a href="mailto:rbazinet@stillrivergunworks.com">rbazinet@stillrivergunworks.com</a>
             </p>
@@ -33,7 +39,7 @@ layout: landing
     </section>
 
     <section class="contact-form">
-        <h3>Get In Touch</h3>
+        <h3>Please Get In Touch</h3>
         <form action="https://formspree.io/f/xblkpzek" method="POST">
             <div class="form-group">
                 <input type="email" name="email" placeholder="Your Email" required>
