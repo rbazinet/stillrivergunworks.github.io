@@ -1,5 +1,7 @@
 ---
 layout: landing
+title: Still River Gun Works
+description: Professional gunsmithing and firearm restoration services in Woodstock, Connecticut. Specializing in 1911 customizations, bluing, trigger work, and complete restorations. Contact us at 860-481-3826.
 ---
 
 <div class="container">

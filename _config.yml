@@ -21,9 +21,9 @@
 title: Still River Gun Works
 email: rbazinet@stillrivergunworks.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Still River Gun Works is a gunsmithing and gun repair shop located in Woodstock, CT
-  We specialize in full restorations, re-blue and stock refinishing.
-  We customize 1911 pistols, trigger work, accuracy improvements.
+  Professional gunsmithing services in Woodstock, CT. Expert restorations, bluing, 
+  1911 customizations, trigger work, and accuracy improvements. Serving Connecticut 
+  gun owners with quality craftsmanship since establishment. Licensed FFL transfers available.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://stillrivergunworks.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stillrivergunworks
@@ -33,6 +33,8 @@ github_username:  rbazinet
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
